@@ -1,5 +1,11 @@
 # Import-export-trade-of-india
 This is a microsoft excel data analysis and visualisation of Indian trade
+
+# How to view/use this project
+1. Download the [trade analysis.xlsx](https://github.com/lillypuppala77/Import-export-trade-of-india/blob/main/trade-analysis.xlsx)
+2.Open the dowloaded xlsx file using microsoft excel 
+3.View each analysis by changing over sheeets
+4.View the dashboard for complete analysis view.
 # objectives
 
 1) TOP 5 COMMODITIES EXPORTED
