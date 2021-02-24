@@ -8,7 +8,7 @@ This is a microsoft excel data analysis and visualisation of Indian trade
 - View each analysis by changing over sheeets
 - View the dashboard for complete analysis view.
 
-# objectives
+# Objectives
 
 1) TOP 5 COMMODITIES EXPORTED
 Using the export dataset , I have found the top 5 most exported commodities throughout the world
